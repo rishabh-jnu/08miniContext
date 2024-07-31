@@ -5,7 +5,7 @@ import { Children } from "react";
 const UserContextProvider = () => {
     return(
         <>
-        {Children}
+        {children}
         </>
     )
 }
